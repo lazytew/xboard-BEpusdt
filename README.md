@@ -5,11 +5,12 @@ xboard对接BEpusdt支付插件
 
 配合BEpusdt食用： [https://github.com/a475312/-bepusdt-](https://github.com/v03413/BEpusdt)
 
-回调还有点小问题，总体能用无伤大雅
+把PaymentController.php 文件放到/app/Http/Controllers/V1/Guest 不然会有回调问题，然后重启环境。
+
+测试epay回调正常，其他未经测试。
 
 
 如果觉得对你有帮助的话可以给我赞赏杯咖啡
-
 
 
 USDT-BEP20：0xe564CF9dAe51EA6F078B96Ea6cE3F9c093482f03
