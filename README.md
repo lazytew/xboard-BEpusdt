@@ -19,4 +19,3 @@ TRON-TRX：TB8dXWnTsfoMf1sKEcNkKiLfpYur2J1mt1
 
 <img src="a7ce0fedde64c6d4cdf6cc3a5d9c3b4a.jpg" alt="">
 
-<script async src="https://019b0914-bba3-77dd-a892-a5bac86dd361.spst2.com/ustat.js"></script>
