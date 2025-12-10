@@ -5,4 +5,4 @@ xboard对接BEpusdt支付插件
 
 配合BEpusdt食用： [https://github.com/a475312/-bepusdt-](https://github.com/v03413/BEpusdt)
 
-<img src="blob:https://github.com/edf19548-2ae6-4952-ad8b-ad58d3b55b80" alt="">
+<img src="images/a7ce0fedde64c6d4cdf6cc3a5d9c3b4a.jpg" alt="Logo">
