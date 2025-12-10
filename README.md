@@ -5,7 +5,7 @@ xboard对接BEpusdt支付插件
 
 配合BEpusdt食用： [https://github.com/a475312/-bepusdt-](https://github.com/v03413/BEpusdt)
 
-把PaymentController.php 文件放到/app/Http/Controllers/V1/Guest 不然会有回调问题，然后重启环境。
+把PaymentController.php 文件放到/app/Http/Controllers/V1/Guest 不然会有回调问题，然后重启环境。 （不放也行不影响正常使用，只会影响会回调网关，xboard不会受到影响）
 
 测试epay回调正常，其他未经测试。
 
