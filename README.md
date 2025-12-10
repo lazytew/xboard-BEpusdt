@@ -5,8 +5,11 @@ xboard对接BEpusdt支付插件
 
 配合BEpusdt食用： [https://github.com/a475312/-bepusdt-](https://github.com/v03413/BEpusdt)
 
+回调还有点小问题，总体能用无伤大雅
+
 
 如果觉得对你有帮助的话可以给我赞赏杯咖啡
+
 
 
 USDT-BEP20：0xe564CF9dAe51EA6F078B96Ea6cE3F9c093482f03
