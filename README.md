@@ -7,7 +7,7 @@ xboard对接BEpusdt支付插件
 
 把PaymentController.php 文件放到/app/Http/Controllers/V1/Guest 不然会有回调问题，然后重启环境。 （不放也行不影响正常使用，只会影响会回调网关，xboard不会受到影响）
 
-测试epay回调正常，其他未经测试。
+！ bepusdt已支持易支付接口，无需插件请直接使用epay即可
 
 
 如果觉得对你有帮助的话可以给我赞赏杯咖啡
